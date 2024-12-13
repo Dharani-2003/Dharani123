@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    background-color: bisque;
+    padding: 10px;
+    margin:10px; 
+    /* text-shadow: 0 0 15px;  */
+    border: 2px solid black; 
+
+}
+h2{
+    color:rgb(174, 216, 232);
+    background-color: chocolate;
+}
+body{
+    background-color: darkslategrey;
+}
